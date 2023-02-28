@@ -10,3 +10,11 @@ Git impulsa el trabajo ordenado y colaborativo entre trabajadores/as de un mismo
 6
 **Modalidad**
 Virtual
+
+
+## Links para aprender ramas con entornos gráficos ##
+
+**Herramientas de práctica:**
+
+1. https://learngitbranching.js.org/?locale=es_AR 
+2. https://www.w3schools.com/git/git_exercises.asp 
